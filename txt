@@ -1,0 +1,22 @@
+mlops_lab1/
+├── data/
+│   ├── raw/                  # Dữ liệu gốc (DVC quản lý)
+│   └── processed/            # Dữ liệu sau tiền xử lý (DVC quản lý)
+│
+├── src/                      # Source code chính (Python scripts)
+│   ├── data_preprocessing.py   # Tiền xử lý dữ liệu (DVC stage)
+│   ├── train.py                # Huấn luyện mô hình
+│   │                            ├── Optuna: tuning
+│   │                            ├── ClearML: orchestration & tracking
+│   │                            └── Neptune: log metrics, model
+│   ├── evaluate.py             # Đánh giá mô hình
+│   └── tune.py                 # Có thể chạy tuning riêng với Optuna
+│
+├── models/
+│   └── checkpoints/         # Lưu checkpoint (log lên Neptune)
+│
+├── metrics/                 # Lưu file JSON/CSV đánh giá (có thể DVC quản lý)
+│
+├── dvc.yaml                 # DVC pipeline định nghĩa stages: preprocess → train → evaluate
+├── clearml.conf             # Cấu hình ClearML client
+├── requirements.txt         # Thư viện (torch, torchvision, optuna, clearml, neptune, etc.)

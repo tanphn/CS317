@@ -1,0 +1,437 @@
+2025-06-04 14:27:02,046 - INFO - Received request for prediction
+2025-06-04 14:27:03,816 - INFO - Predicted class: paper
+2025-06-04 14:45:54,373 - INFO - Received request for prediction
+2025-06-04 14:45:55,652 - INFO - Predicted class: paper
+2025-06-04 14:46:15,196 - INFO - Received request for prediction
+2025-06-04 14:46:15,269 - INFO - Predicted class: paper
+2025-06-04 14:53:54,953 - INFO - Received request for prediction
+2025-06-04 14:53:56,063 - INFO - Predicted class: paper
+2025-06-04 15:00:30,684 - INFO - Received request for prediction
+2025-06-04 15:00:31,320 - INFO - Predicted class: paper
+2025-06-04 15:06:44,625 - INFO - Received request for prediction
+2025-06-04 15:06:45,549 - INFO - Predicted class: paper
+2025-06-04 15:08:26,632 - INFO - Received request for prediction
+2025-06-04 15:08:27,005 - INFO - Predicted class: metal
+2025-06-04 16:19:11,876 - INFO - Received request for prediction
+2025-06-04 16:19:12,897 - INFO - Predicted class: paper
+2025-06-04 16:38:31,736 - INFO - Received request for prediction
+2025-06-04 16:38:32,686 - INFO - Predicted class: cardboard
+2025-06-04 16:44:46,169 - INFO - Received request for prediction
+2025-06-04 16:44:46,709 - INFO - Predicted class: cardboard
+2025-06-09 05:52:28,064 - INFO - Received request for prediction
+2025-06-09 05:52:29,883 - INFO - Predicted class: paper
+2025-06-09 05:56:51,138 - INFO - Received request for prediction
+2025-06-09 05:56:52,397 - INFO - Predicted class: paper
+2025-06-09 05:56:59,888 - INFO - Received request for prediction
+2025-06-09 05:57:00,368 - INFO - Predicted class: metal
+2025-06-09 06:59:09,415 - INFO - Received request for prediction
+2025-06-09 06:59:11,746 - INFO - Predicted class: cardboard
+2025-06-09 07:13:33,061 - INFO - Received request for prediction
+2025-06-09 07:13:34,233 - INFO - Predicted class: cardboard
+2025-06-09 07:13:49,164 - INFO - Received request for prediction
+2025-06-09 07:13:49,767 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2f41aeda40>
+2025-06-09 07:16:05,162 - INFO - Received request for prediction
+2025-06-09 07:16:05,195 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f301ed2a770>
+2025-06-09 07:16:23,913 - INFO - Received request for prediction
+2025-06-09 07:16:25,064 - INFO - Predicted class: metal
+2025-06-09 07:27:40,927 - INFO - Received request for prediction
+2025-06-09 07:27:41,849 - INFO - Predicted class: paper
+2025-06-09 07:28:07,752 - INFO - Received request for prediction
+2025-06-09 07:28:07,841 - INFO - Predicted class: cardboard
+2025-06-09 07:31:16,750 - INFO - Received request for prediction
+2025-06-09 07:31:17,270 - INFO - Predicted class: cardboard
+2025-06-09 07:31:19,338 - INFO - Received request for prediction
+2025-06-09 07:31:19,446 - INFO - Predicted class: cardboard
+2025-06-09 07:35:47,280 - INFO - Received request for prediction
+2025-06-09 08:04:50,965 - INFO - Received request for prediction
+2025-06-09 08:04:52,350 - INFO - Predicted class: paper
+2025-06-09 08:18:37,531 - INFO - Received request for prediction
+2025-06-09 08:18:38,614 - INFO - Predicted class: metal
+2025-06-09 08:18:39,925 - INFO - Received request for prediction
+2025-06-09 08:18:40,120 - INFO - Predicted class: metal
+2025-06-09 08:18:44,228 - INFO - Received request for prediction
+2025-06-09 08:18:44,293 - INFO - Predicted class: cardboard
+2025-06-09 08:18:47,807 - INFO - Received request for prediction
+2025-06-09 08:18:47,915 - INFO - Predicted class: paper
+2025-06-09 08:18:54,242 - INFO - Received request for prediction
+2025-06-09 08:18:54,617 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7fb6adca8810>
+2025-06-09 08:20:48,242 - INFO - Received request for prediction
+2025-06-09 08:20:48,923 - INFO - Predicted class: paper
+2025-06-09 08:24:32,249 - INFO - Received request for prediction
+2025-06-09 08:24:33,327 - INFO - Predicted class: metal
+2025-06-09 08:24:34,248 - INFO - Received request for prediction
+2025-06-09 08:24:34,399 - INFO - Predicted class: metal
+2025-06-09 08:41:10,912 - INFO - Received request for prediction
+2025-06-09 08:41:12,112 - INFO - Predicted class: cardboard, Inference time: 0.26125256999876s, Confidence: 0.9470367431640625
+2025-06-09 08:42:41,094 - INFO - Received request for prediction
+2025-06-09 08:42:41,748 - INFO - Predicted class: metal, Inference time: 0.261569556001632s, Confidence: 0.6619044542312622
+2025-06-09 08:42:45,055 - INFO - Received request for prediction
+2025-06-09 08:42:45,127 - INFO - Predicted class: paper, Inference time: 0.042153647998929955s, Confidence: 0.664667010307312
+2025-06-09 08:42:49,707 - INFO - Received request for prediction
+2025-06-09 08:42:49,892 - INFO - Predicted class: metal, Inference time: 0.04003674600062368s, Confidence: 0.6619044542312622
+2025-06-09 08:42:52,734 - INFO - Received request for prediction
+2025-06-09 08:42:52,807 - INFO - Predicted class: cardboard, Inference time: 0.06505910600026255s, Confidence: 0.9470367431640625
+2025-06-09 08:43:37,853 - INFO - Received request for prediction
+2025-06-09 08:43:38,501 - INFO - Predicted class: metal, Inference time: 0.23369718799949624s, Confidence: 0.6619044542312622
+2025-06-09 08:43:41,123 - INFO - Received request for prediction
+2025-06-09 08:43:41,218 - INFO - Predicted class: cardboard, Inference time: 0.08266828199884912s, Confidence: 0.9470367431640625
+2025-06-09 08:50:33,850 - INFO - Received request for prediction
+2025-06-09 08:50:34,555 - INFO - Predicted class: cardboard, Inference time: 0.3907470599988301s, Confidence: 0.9470367431640625
+2025-06-09 08:50:38,392 - INFO - Received request for prediction
+2025-06-09 08:50:38,495 - INFO - Predicted class: paper, Inference time: 0.06085022299885168s, Confidence: 0.664667010307312
+2025-06-09 09:01:00,984 - INFO - Received request for prediction
+2025-06-09 09:01:01,725 - INFO - Predicted class: paper, Inference time: 0.3458317629992962s, Confidence: 0.664667010307312
+2025-06-09 09:01:11,940 - INFO - Received request for prediction
+2025-06-09 09:01:12,009 - INFO - Predicted class: cardboard, Inference time: 0.04821750499831978s, Confidence: 0.9470367431640625
+2025-06-09 09:01:15,928 - INFO - Received request for prediction
+2025-06-09 09:01:16,128 - INFO - Predicted class: metal, Inference time: 0.03489102899948193s, Confidence: 0.6619044542312622
+2025-06-09 09:03:32,596 - INFO - Received request for prediction
+2025-06-09 09:03:33,045 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f99d91149a0>
+2025-06-09 09:03:40,881 - INFO - Received request for prediction
+2025-06-09 09:03:40,883 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f99d8df85e0>
+2025-06-09 09:04:29,870 - INFO - Received request for prediction
+2025-06-09 09:04:29,974 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f99d8df85e0>
+2025-06-09 10:30:46,639 - INFO - Received request for prediction
+2025-06-09 10:30:46,915 - INFO - Predicted class: paper, Inference time: 0.15790574600032414s, Confidence: 0.664667010307312
+2025-06-09 10:30:48,209 - INFO - Received request for prediction
+2025-06-09 10:30:48,285 - INFO - Predicted class: paper, Inference time: 0.05034139000053983s, Confidence: 0.664667010307312
+2025-06-09 10:30:51,867 - INFO - Received request for prediction
+2025-06-09 10:30:51,931 - INFO - Predicted class: cardboard, Inference time: 0.042139096000028076s, Confidence: 0.9470367431640625
+2025-06-09 10:30:55,973 - INFO - Received request for prediction
+2025-06-09 10:30:56,183 - INFO - Predicted class: metal, Inference time: 0.03974169000139227s, Confidence: 0.6619044542312622
+2025-06-09 10:31:00,639 - INFO - Received request for prediction
+2025-06-09 10:31:00,730 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7fdcfd825cc0>
+2025-06-10 16:10:51,101 - INFO - Received request for prediction
+2025-06-10 16:10:51,956 - INFO - Predicted class: fear, Inference time: 0.49515992299893696s, Confidence: 0.763492226600647
+2025-06-10 16:11:46,588 - INFO - Received request for prediction
+2025-06-10 16:11:47,161 - INFO - Predicted class: fear, Inference time: 0.37591267700008757s, Confidence: 0.34572407603263855
+2025-06-10 16:11:54,567 - INFO - Received request for prediction
+2025-06-10 16:11:54,618 - INFO - Predicted class: fear, Inference time: 0.046893844000805984s, Confidence: 0.7554111480712891
+2025-06-10 16:12:11,846 - INFO - Received request for prediction
+2025-06-10 16:12:11,899 - INFO - Predicted class: sad, Inference time: 0.045379173001492745s, Confidence: 0.37945130467414856
+2025-06-10 16:12:19,506 - INFO - Received request for prediction
+2025-06-10 16:12:19,564 - INFO - Predicted class: sad, Inference time: 0.05300525699931313s, Confidence: 0.4658769965171814
+2025-06-10 16:12:29,097 - INFO - Received request for prediction
+2025-06-10 16:12:29,183 - INFO - Predicted class: sad, Inference time: 0.07754759700037539s, Confidence: 0.48541459441185
+2025-06-10 16:12:37,350 - INFO - Received request for prediction
+2025-06-10 16:12:37,417 - INFO - Predicted class: sad, Inference time: 0.06047735599895532s, Confidence: 0.3607760965824127
+2025-06-10 16:12:44,846 - INFO - Received request for prediction
+2025-06-10 16:12:44,887 - INFO - Predicted class: fear, Inference time: 0.038481889001559466s, Confidence: 0.5164451599121094
+2025-06-10 16:20:41,951 - INFO - Received request for prediction
+2025-06-10 16:20:43,121 - INFO - Predicted class: happy, Inference time: 0.6625977189996775s, Confidence: 0.3838273882865906
+2025-06-10 16:20:52,865 - INFO - Received request for prediction
+2025-06-10 16:20:52,953 - INFO - Predicted class: sad, Inference time: 0.08156216700081131s, Confidence: 0.6940131187438965
+2025-06-10 16:20:59,554 - INFO - Received request for prediction
+2025-06-10 16:20:59,849 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f102ec2c450>
+2025-06-10 16:24:58,471 - INFO - Received request for prediction
+2025-06-10 16:24:59,712 - INFO - Predicted class: angry, Inference time: 0.6953691359994991s, Confidence: 0.5903104543685913
+2025-06-10 16:58:34,128 - INFO - Received request for prediction
+2025-06-10 16:58:35,384 - INFO - Predicted class: fear, Inference time: 0.5961050599998998s, Confidence: 0.7162986993789673
+2025-06-10 16:58:37,065 - INFO - Received request for prediction
+2025-06-10 16:58:37,106 - INFO - Predicted class: fear, Inference time: 0.03821522399994137s, Confidence: 0.7162986993789673
+2025-06-10 16:58:45,302 - INFO - Received request for prediction
+2025-06-10 16:58:45,339 - INFO - Predicted class: sad, Inference time: 0.032349715000236756s, Confidence: 0.4883383512496948
+2025-06-10 16:58:51,038 - INFO - Received request for prediction
+2025-06-10 16:58:51,130 - INFO - Predicted class: fear, Inference time: 0.08287201399980404s, Confidence: 0.6299453973770142
+2025-06-10 16:59:45,777 - INFO - Received request for prediction
+2025-06-10 16:59:45,914 - INFO - Predicted class: sad, Inference time: 0.11009000000012747s, Confidence: 0.37793588638305664
+2025-06-10 20:01:49,346 - INFO - Received request for prediction
+2025-06-10 20:01:49,810 - INFO - Predicted class: happy, Inference time: 0.27330721500038635s, Confidence: 0.9999606609344482
+2025-06-10 20:02:01,572 - INFO - Received request for prediction
+2025-06-10 20:02:01,625 - INFO - Predicted class: neutral, Inference time: 0.04765844600115088s, Confidence: 0.5751665830612183
+2025-06-10 20:02:09,975 - INFO - Received request for prediction
+2025-06-10 20:02:10,032 - INFO - Predicted class: angry, Inference time: 0.049245547997998074s, Confidence: 0.9337940216064453
+2025-06-10 20:09:39,967 - INFO - Received request for prediction
+2025-06-10 20:09:40,460 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff4034810>
+2025-06-10 20:09:41,541 - INFO - Received request for prediction
+2025-06-10 20:09:41,561 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7cda360>
+2025-06-10 20:09:42,735 - INFO - Received request for prediction
+2025-06-10 20:09:42,739 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff749dbd0>
+2025-06-10 20:09:43,439 - INFO - Received request for prediction
+2025-06-10 20:09:43,447 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff749dbd0>
+2025-06-10 20:09:44,170 - INFO - Received request for prediction
+2025-06-10 20:09:44,177 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff749dbd0>
+2025-06-10 20:09:44,693 - INFO - Received request for prediction
+2025-06-10 20:09:44,698 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856e50>
+2025-06-10 20:10:34,455 - INFO - Received request for prediction
+2025-06-10 20:10:34,461 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6003d60>
+2025-06-10 20:10:34,756 - INFO - Received request for prediction
+2025-06-10 20:10:34,761 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6ab7ae0>
+2025-06-10 20:10:35,357 - INFO - Received request for prediction
+2025-06-10 20:10:35,362 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff70e5d60>
+2025-06-10 20:10:35,688 - INFO - Received request for prediction
+2025-06-10 20:10:35,696 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6ab7ae0>
+2025-06-10 20:10:35,978 - INFO - Received request for prediction
+2025-06-10 20:10:35,984 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6003d60>
+2025-06-10 20:10:36,303 - INFO - Received request for prediction
+2025-06-10 20:10:36,307 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856e50>
+2025-06-10 20:10:36,624 - INFO - Received request for prediction
+2025-06-10 20:10:36,628 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6003d60>
+2025-06-10 20:10:36,912 - INFO - Received request for prediction
+2025-06-10 20:10:36,916 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6003d60>
+2025-06-10 20:10:37,230 - INFO - Received request for prediction
+2025-06-10 20:10:37,235 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6003d60>
+2025-06-10 20:10:37,534 - INFO - Received request for prediction
+2025-06-10 20:10:37,539 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6003d60>
+2025-06-10 20:10:37,820 - INFO - Received request for prediction
+2025-06-10 20:10:37,825 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff37c1e50>
+2025-06-10 20:10:51,334 - INFO - Received request for prediction
+2025-06-10 20:10:51,843 - INFO - Predicted class: angry, Inference time: 0.3487515730012092s, Confidence: 0.42262181639671326
+2025-06-10 20:14:34,148 - INFO - Received request for prediction
+2025-06-10 20:14:34,768 - INFO - Predicted class: angry, Inference time: 0.3735947610002768s, Confidence: 0.42262181639671326
+2025-06-10 20:14:40,687 - INFO - Received request for prediction
+2025-06-10 20:14:40,710 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:40,986 - INFO - Received request for prediction
+2025-06-10 20:14:40,989 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff70d1130>
+2025-06-10 20:14:41,209 - INFO - Received request for prediction
+2025-06-10 20:14:41,211 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856c20>
+2025-06-10 20:14:41,433 - INFO - Received request for prediction
+2025-06-10 20:14:41,434 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856c20>
+2025-06-10 20:14:41,559 - INFO - Received request for prediction
+2025-06-10 20:14:41,561 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856c20>
+2025-06-10 20:14:41,794 - INFO - Received request for prediction
+2025-06-10 20:14:41,797 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856c20>
+2025-06-10 20:14:42,027 - INFO - Received request for prediction
+2025-06-10 20:14:42,029 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6016c20>
+2025-06-10 20:14:42,205 - INFO - Received request for prediction
+2025-06-10 20:14:42,206 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856c20>
+2025-06-10 20:14:42,344 - INFO - Received request for prediction
+2025-06-10 20:14:42,346 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff70d1130>
+2025-06-10 20:14:42,458 - INFO - Received request for prediction
+2025-06-10 20:14:42,459 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6016950>
+2025-06-10 20:14:42,633 - INFO - Received request for prediction
+2025-06-10 20:14:42,635 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6ab7ae0>
+2025-06-10 20:14:42,771 - INFO - Received request for prediction
+2025-06-10 20:14:42,773 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff70d1130>
+2025-06-10 20:14:42,954 - INFO - Received request for prediction
+2025-06-10 20:14:42,955 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff70d19a0>
+2025-06-10 20:14:43,091 - INFO - Received request for prediction
+2025-06-10 20:14:43,093 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:43,244 - INFO - Received request for prediction
+2025-06-10 20:14:43,245 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:43,390 - INFO - Received request for prediction
+2025-06-10 20:14:43,392 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:43,554 - INFO - Received request for prediction
+2025-06-10 20:14:43,555 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:43,723 - INFO - Received request for prediction
+2025-06-10 20:14:43,725 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:43,870 - INFO - Received request for prediction
+2025-06-10 20:14:43,871 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,023 - INFO - Received request for prediction
+2025-06-10 20:14:44,025 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,174 - INFO - Received request for prediction
+2025-06-10 20:14:44,176 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,333 - INFO - Received request for prediction
+2025-06-10 20:14:44,335 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,505 - INFO - Received request for prediction
+2025-06-10 20:14:44,507 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,654 - INFO - Received request for prediction
+2025-06-10 20:14:44,655 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,804 - INFO - Received request for prediction
+2025-06-10 20:14:44,806 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:44,952 - INFO - Received request for prediction
+2025-06-10 20:14:44,954 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:45,103 - INFO - Received request for prediction
+2025-06-10 20:14:45,104 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:45,273 - INFO - Received request for prediction
+2025-06-10 20:14:45,275 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:14:45,433 - INFO - Received request for prediction
+2025-06-10 20:14:45,435 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7c3f6d0>
+2025-06-10 20:18:43,486 - INFO - Received request for prediction
+2025-06-10 20:18:43,507 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff6016950>
+2025-06-10 20:18:43,899 - INFO - Received request for prediction
+2025-06-10 20:18:43,901 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff70d1130>
+2025-06-10 20:18:55,584 - INFO - Received request for prediction
+2025-06-10 20:18:56,117 - INFO - Predicted class: neutral, Inference time: 0.4134870160014543s, Confidence: 0.3558166027069092
+2025-06-10 20:18:56,557 - INFO - Received request for prediction
+2025-06-10 20:18:56,591 - INFO - Predicted class: neutral, Inference time: 0.02857449599832762s, Confidence: 0.3558166027069092
+2025-06-10 20:18:56,697 - INFO - Received request for prediction
+2025-06-10 20:18:56,723 - INFO - Predicted class: neutral, Inference time: 0.021905139998125378s, Confidence: 0.3558166027069092
+2025-06-10 20:18:57,112 - INFO - Received request for prediction
+2025-06-10 20:18:57,129 - INFO - Predicted class: neutral, Inference time: 0.015225740000460064s, Confidence: 0.3558166027069092
+2025-06-10 20:18:57,261 - INFO - Received request for prediction
+2025-06-10 20:18:57,277 - INFO - Predicted class: neutral, Inference time: 0.013157653000234859s, Confidence: 0.3558166027069092
+2025-06-10 20:26:12,598 - INFO - Received request for prediction
+2025-06-10 20:26:13,030 - INFO - Predicted class: neutral, Inference time: 0.27139879999958794s, Confidence: 0.3558166027069092
+2025-06-10 20:26:21,048 - INFO - Received request for prediction
+2025-06-10 20:26:21,235 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff602a270>
+2025-06-10 20:26:21,521 - INFO - Received request for prediction
+2025-06-10 20:26:21,525 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff601b310>
+2025-06-10 20:26:21,862 - INFO - Received request for prediction
+2025-06-10 20:26:21,872 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff602a090>
+2025-06-10 20:26:22,277 - INFO - Received request for prediction
+2025-06-10 20:26:22,283 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff601b310>
+2025-06-10 20:26:22,587 - INFO - Received request for prediction
+2025-06-10 20:26:22,592 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff2856c20>
+2025-06-10 20:26:22,851 - INFO - Received request for prediction
+2025-06-10 20:26:22,855 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff7cda360>
+2025-06-10 20:26:23,100 - INFO - Received request for prediction
+2025-06-10 20:26:23,105 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f1ff601b310>
+2025-06-10 20:37:08,668 - INFO - Received request for prediction
+2025-06-10 20:37:09,151 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1b65c860>
+2025-06-10 20:37:09,544 - INFO - Received request for prediction
+2025-06-10 20:37:09,552 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1cb484f0>
+2025-06-10 20:37:09,826 - INFO - Received request for prediction
+2025-06-10 20:37:09,831 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1c3c7d60>
+2025-06-10 20:37:10,174 - INFO - Received request for prediction
+2025-06-10 20:37:10,179 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1c760310>
+2025-06-10 20:37:10,484 - INFO - Received request for prediction
+2025-06-10 20:37:10,487 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1ca79400>
+2025-06-10 20:37:10,816 - INFO - Received request for prediction
+2025-06-10 20:37:10,821 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1cb484f0>
+2025-06-10 20:37:11,114 - INFO - Received request for prediction
+2025-06-10 20:37:11,118 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1c3c7d60>
+2025-06-10 20:37:11,464 - INFO - Received request for prediction
+2025-06-10 20:37:11,468 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1c71be50>
+2025-06-10 20:37:11,729 - INFO - Received request for prediction
+2025-06-10 20:37:11,732 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1c760310>
+2025-06-10 20:37:11,992 - INFO - Received request for prediction
+2025-06-10 20:37:11,998 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1c0f69a0>
+2025-06-10 20:46:39,835 - INFO - Received request for prediction
+2025-06-10 20:46:39,909 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f8a1d330b80>
+2025-06-10 20:46:49,466 - INFO - Received request for prediction
+2025-06-10 20:46:50,102 - INFO - Predicted class: neutral, Inference time: 0.36020748499868205s, Confidence: 0.7835127711296082
+2025-06-10 20:46:50,236 - INFO - Received request for prediction
+2025-06-10 20:46:50,275 - INFO - Predicted class: neutral, Inference time: 0.03300395800033584s, Confidence: 0.7835127711296082
+2025-06-10 20:46:50,394 - INFO - Received request for prediction
+2025-06-10 20:46:50,418 - INFO - Predicted class: neutral, Inference time: 0.01918464000118547s, Confidence: 0.7835127711296082
+2025-06-10 20:46:50,606 - INFO - Received request for prediction
+2025-06-10 20:46:50,626 - INFO - Predicted class: neutral, Inference time: 0.01739425800042227s, Confidence: 0.7835127711296082
+2025-06-10 20:46:50,736 - INFO - Received request for prediction
+2025-06-10 20:46:50,753 - INFO - Predicted class: neutral, Inference time: 0.015361982001195429s, Confidence: 0.7835127711296082
+2025-06-10 20:46:50,885 - INFO - Received request for prediction
+2025-06-10 20:46:50,900 - INFO - Predicted class: neutral, Inference time: 0.013244069999927888s, Confidence: 0.7835127711296082
+2025-06-10 20:46:51,016 - INFO - Received request for prediction
+2025-06-10 20:46:51,031 - INFO - Predicted class: neutral, Inference time: 0.01297096700000111s, Confidence: 0.7835127711296082
+2025-06-10 21:09:23,800 - INFO - Received request for prediction
+2025-06-10 21:09:24,172 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b892a3a90>
+2025-06-10 21:09:24,946 - INFO - Received request for prediction
+2025-06-10 21:09:24,952 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:25,338 - INFO - Received request for prediction
+2025-06-10 21:09:25,342 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:25,621 - INFO - Received request for prediction
+2025-06-10 21:09:25,625 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:25,917 - INFO - Received request for prediction
+2025-06-10 21:09:25,923 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b899c6e50>
+2025-06-10 21:09:26,214 - INFO - Received request for prediction
+2025-06-10 21:09:26,218 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b899c6e50>
+2025-06-10 21:09:26,523 - INFO - Received request for prediction
+2025-06-10 21:09:26,528 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b891cee00>
+2025-06-10 21:09:26,863 - INFO - Received request for prediction
+2025-06-10 21:09:26,868 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2c630750e0>
+2025-06-10 21:09:27,176 - INFO - Received request for prediction
+2025-06-10 21:09:27,181 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b891cee00>
+2025-06-10 21:09:27,473 - INFO - Received request for prediction
+2025-06-10 21:09:27,477 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b891cee00>
+2025-06-10 21:09:27,801 - INFO - Received request for prediction
+2025-06-10 21:09:27,806 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b891cee00>
+2025-06-10 21:09:28,113 - INFO - Received request for prediction
+2025-06-10 21:09:28,117 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b891cee00>
+2025-06-10 21:09:28,443 - INFO - Received request for prediction
+2025-06-10 21:09:28,447 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b891cee00>
+2025-06-10 21:09:28,777 - INFO - Received request for prediction
+2025-06-10 21:09:28,781 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:29,092 - INFO - Received request for prediction
+2025-06-10 21:09:29,096 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:29,401 - INFO - Received request for prediction
+2025-06-10 21:09:29,405 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b884e50e0>
+2025-06-10 21:09:29,729 - INFO - Received request for prediction
+2025-06-10 21:09:29,734 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b884e50e0>
+2025-06-10 21:09:30,048 - INFO - Received request for prediction
+2025-06-10 21:09:30,052 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b899c6e50>
+2025-06-10 21:09:30,335 - INFO - Received request for prediction
+2025-06-10 21:09:30,340 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b899c6e50>
+2025-06-10 21:09:30,652 - INFO - Received request for prediction
+2025-06-10 21:09:30,656 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:30,967 - INFO - Received request for prediction
+2025-06-10 21:09:30,972 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b8958dd60>
+2025-06-10 21:09:31,362 - INFO - Received request for prediction
+2025-06-10 21:09:31,367 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7f2b884e50e0>
+2025-06-11 16:40:07,228 - INFO - Received request for prediction
+2025-06-11 16:40:08,513 - INFO - Predicted class: happy, Inference time: 0.7265498400010983s, Confidence: 0.9999606609344482
+2025-06-11 16:40:12,955 - INFO - Received request for prediction
+2025-06-11 16:40:12,998 - INFO - Predicted class: happy, Inference time: 0.033171044999107835s, Confidence: 0.9999606609344482
+2025-06-11 16:40:13,467 - INFO - Received request for prediction
+2025-06-11 16:40:13,486 - INFO - Predicted class: happy, Inference time: 0.016612491999694612s, Confidence: 0.9999606609344482
+2025-06-11 16:40:13,653 - INFO - Received request for prediction
+2025-06-11 16:40:13,668 - INFO - Predicted class: happy, Inference time: 0.013158447998648626s, Confidence: 0.9999606609344482
+2025-06-11 16:40:13,803 - INFO - Received request for prediction
+2025-06-11 16:40:13,818 - INFO - Predicted class: happy, Inference time: 0.012694944000031683s, Confidence: 0.9999606609344482
+2025-06-11 16:40:13,910 - INFO - Received request for prediction
+2025-06-11 16:40:13,932 - INFO - Predicted class: happy, Inference time: 0.018083562001265818s, Confidence: 0.9999606609344482
+2025-06-11 16:40:14,093 - INFO - Received request for prediction
+2025-06-11 16:40:14,114 - INFO - Predicted class: happy, Inference time: 0.018507460001274012s, Confidence: 0.9999606609344482
+2025-06-11 16:43:09,001 - INFO - Received request for prediction
+2025-06-11 16:43:09,627 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:12,469 - INFO - Received request for prediction
+2025-06-11 16:43:12,471 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:12,690 - INFO - Received request for prediction
+2025-06-11 16:43:12,692 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:12,862 - INFO - Received request for prediction
+2025-06-11 16:43:12,863 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff1571c270>
+2025-06-11 16:43:13,051 - INFO - Received request for prediction
+2025-06-11 16:43:13,053 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff157d1950>
+2025-06-11 16:43:54,070 - INFO - Received request for prediction
+2025-06-11 16:43:54,073 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:54,269 - INFO - Received request for prediction
+2025-06-11 16:43:54,270 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:54,429 - INFO - Received request for prediction
+2025-06-11 16:43:54,429 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:54,541 - INFO - Received request for prediction
+2025-06-11 16:43:54,543 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:54,719 - INFO - Received request for prediction
+2025-06-11 16:43:54,721 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff11b83b80>
+2025-06-11 16:43:55,000 - INFO - Received request for prediction
+2025-06-11 16:43:55,000 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:55,179 - INFO - Received request for prediction
+2025-06-11 16:43:55,180 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:55,339 - INFO - Received request for prediction
+2025-06-11 16:43:55,340 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:55,499 - INFO - Received request for prediction
+2025-06-11 16:43:55,500 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:55,639 - INFO - Received request for prediction
+2025-06-11 16:43:55,640 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:55,819 - INFO - Received request for prediction
+2025-06-11 16:43:55,819 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:55,968 - INFO - Received request for prediction
+2025-06-11 16:43:55,969 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:56,149 - INFO - Received request for prediction
+2025-06-11 16:43:56,150 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:56,268 - INFO - Received request for prediction
+2025-06-11 16:43:56,269 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff1571c270>
+2025-06-11 16:43:56,459 - INFO - Received request for prediction
+2025-06-11 16:43:56,460 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:56,599 - INFO - Received request for prediction
+2025-06-11 16:43:56,600 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff1571c270>
+2025-06-11 16:43:56,719 - INFO - Received request for prediction
+2025-06-11 16:43:56,720 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:56,859 - INFO - Received request for prediction
+2025-06-11 16:43:56,859 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:56,999 - INFO - Received request for prediction
+2025-06-11 16:43:56,999 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:57,149 - INFO - Received request for prediction
+2025-06-11 16:43:57,150 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff1571c270>
+2025-06-11 16:43:57,289 - INFO - Received request for prediction
+2025-06-11 16:43:57,290 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:57,439 - INFO - Received request for prediction
+2025-06-11 16:43:57,440 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:57,589 - INFO - Received request for prediction
+2025-06-11 16:43:57,590 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:57,739 - INFO - Received request for prediction
+2025-06-11 16:43:57,739 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff1571c270>
+2025-06-11 16:43:57,869 - INFO - Received request for prediction
+2025-06-11 16:43:57,870 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:58,019 - INFO - Received request for prediction
+2025-06-11 16:43:58,020 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff14a21c20>
+2025-06-11 16:43:58,149 - INFO - Received request for prediction
+2025-06-11 16:43:58,150 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:58,409 - INFO - Received request for prediction
+2025-06-11 16:43:58,411 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff1571c270>
+2025-06-11 16:43:58,525 - INFO - Received request for prediction
+2025-06-11 16:43:58,526 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff12a2eb30>
+2025-06-11 16:43:58,692 - INFO - Received request for prediction
+2025-06-11 16:43:58,693 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:58,899 - INFO - Received request for prediction
+2025-06-11 16:43:58,900 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>
+2025-06-11 16:43:59,039 - INFO - Received request for prediction
+2025-06-11 16:43:59,040 - ERROR - Error during prediction: cannot identify image file <_io.BytesIO object at 0x7eff15c1a360>

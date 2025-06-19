@@ -1,0 +1,27 @@
+groups:
+- name: Lab3Alerts
+  rules:
+  - alert: InstanceDown
+    expr: up == 0
+    for: 5m
+    labels:
+      severity: critical
+    annotations:
+      summary: "Instance {{ $labels.instance }} down"
+      description: "{{ $labels.instance }} of job {{ $labels.job }} has been down for more than 5 minutes."
+  - alert: HighErrorRate
+    expr: rate(request_count{status="500"}[5m]) / rate(request_count{status=~".+"}[5m]) > 0.5
+    for: 5m
+    labels:
+      severity: critical
+    annotations:
+      summary: "High error rate on {{ $labels.endpoint }}"
+      description: "Error rate for {{ $labels.endpoint }} is above 50% over 5 minutes."
+  - alert: LowConfidenceScore
+    expr: model_confidence_score < 0.6
+    for: 5m
+    labels:
+      severity: warning
+    annotations:
+      summary: "Low confidence score detected"
+      description: "Model confidence score dropped below 0.6 for 5 minutes."

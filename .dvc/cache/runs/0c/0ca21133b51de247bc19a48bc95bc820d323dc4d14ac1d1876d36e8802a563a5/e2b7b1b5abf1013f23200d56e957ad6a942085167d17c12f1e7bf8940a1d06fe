@@ -1,0 +1,16 @@
+cmd: python src/train.py
+deps:
+- path: data/processed/
+  hash: md5
+  md5: b25d270b1a108557771d3d6a9e83b65e.dir
+  size: 43282402
+  nfiles: 2527
+- path: src/train.py
+  hash: md5
+  md5: 9e2b028600c663f770a442e8a3561abf
+  size: 5451
+outs:
+- path: models/checkpoints/best_model.pt
+  hash: md5
+  md5: ebf099f73231b9aa81f28e820ef5f7df
+  size: 44795832

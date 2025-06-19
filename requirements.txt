@@ -1,0 +1,19 @@
+# Core
+torch==2.1.0
+torchvision==0.16.0
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+
+# MLOps
+optuna==3.6.1
+dvc==3.50.1
+clearml==1.13.2
+neptune==1.12.0
+
+# Image handling
+Pillow
+
+

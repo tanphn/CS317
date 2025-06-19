@@ -1,0 +1,19 @@
+global:
+  resolve_timeout: 5m
+
+route:
+  receiver: 'email-notifications'
+  group_by: ['alertname']
+  group_wait: 30s
+  group_interval: 5m
+  repeat_interval: 12h
+
+receivers:
+- name: 'email-notifications'
+  email_configs:
+  - to: '22521610@gm.uit.edu.vn'  # Thay bằng email của bạn
+    from: '22521610@gm.uit.edu.vn'  # Sử dụng địa chỉ local
+    smarthost: 'smtp.gmail.com:587'  # Cấu hình SMTP nếu cần
+    auth_username: '22521610@gm.uit.edu.vn'  # Thay bằng username email
+    auth_password: 'eytinozuhoysolrd'  # Thay bằng mật khẩu ứng dụng
+    require_tls: true
