@@ -8,6 +8,16 @@
 <!-- Title -->
 <h1 align="center"><b>CS317.P21 - PHÁT TRIỂN VÀ VẬN HÀNH HỆ THỐNG MÁY HỌC</b></h1>
 
+## Môn học 
+<a name="gioithieumonhoc"></a>
+* *Môn học*: Phát triển và vận hành hệ thống máy học
+* *Mã lớp*: CS317.P21
+* *Year*: 2024-2025
+## Giáo viên
+<a name="giangvien"></a>
+* *Đỗ Văn Tiến* - tiendv@uit.edu.vn
+* *Lê Trần Trọng Khiêm* - khiemltt@uit.edu.vn
+
 # CS317 - Emotion Recognition System with End-to-End MLOps Pipeline Deployment
 ## Danh sách thành viên:
 | Họ và tên      | MSSV | Lớp     |
