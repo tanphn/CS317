@@ -9,6 +9,8 @@ services:
     volumes:
       - ./:/app
       - ./app.log:/app/app.log
+      - ./static:/app/static
+      - ./templates:/app/templates
     environment:
       - PYTHONUNBUFFERED=1
     restart: unless-stopped
